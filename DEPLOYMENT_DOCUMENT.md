@@ -62,3 +62,8 @@ Scan Date: **2025-10-31 12:26:57**
 - `API_TOKEN`
 - `DB_PASS`
 - `DB_USER`
+
+## Newly Detected Variables (Appended Automatically)
+
+- `ADMIN_API_KEY`
+- `DB_ADMIN`
