@@ -1,0 +1,8 @@
+# ✅ True positives
+env: DB_USER
+value: ${DB_PASS}
+secret: ${JWT_SECRET:default}
+
+# ❌ False positives
+enable: true
+mode: production
