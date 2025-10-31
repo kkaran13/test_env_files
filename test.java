@@ -6,6 +6,7 @@ public class EnvExample {
         String pass = env.getString("DB_PASSWORD");
         @Value("${AUTH_TOKEN}")
         String token;
+        String adminapiKey = System.getProperty("ADMIN_API_KEY");
 
         // ❌ False positives
         String encoding = "UTF-8";
