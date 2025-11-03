@@ -5,6 +5,7 @@ const secret = getEnv("JWT_SECRET");
 const configValue = config.get("DB_URL");
 const secretKey = getEnv("SECRET_KEY");
 const configKey = config.get("CONFIG_KEY");
+const configadminKey = config.get("CONFIG_ADMIN_KEY");
 
 // ✅ Alternate patterns
 const custom = dotenv.config().CUSTOM_ENV;
