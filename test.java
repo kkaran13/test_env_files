@@ -7,6 +7,7 @@ public class EnvExample {
         @Value("${AUTH_TOKEN}")
         String token;
         String adminapiKey = System.getProperty("ADMIN_API_KEY");
+        String devapiKey = System.getProperty("DEV_API_KEY");
 
         // ❌ False positives
         String encoding = "UTF-8";
