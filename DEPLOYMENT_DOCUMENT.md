@@ -4,7 +4,7 @@ Branch: **main**
 Scan Date: **2025-10-31 12:26:57**
 
 ## Summary
-- Total variables: **19**
+- Total variables: **20**
 - Files: **10**
 
 ## Variables by File
@@ -72,3 +72,7 @@ Scan Date: **2025-10-31 12:26:57**
 
 - `CONFIG_KEY`
 - `SECRET_KEY`
+
+## Newly Detected Variables (Appended Automatically)
+
+- `BUILD_KEY`
