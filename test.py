@@ -8,6 +8,7 @@ debug_mode = os.environ.get("DEBUG_MODE")
 dotenv.get_key(".env", "JWT_SECRET")
 db_user = os.getenv("DB_USER")
 db_admin = os.getenv("DB_ADMIN")
+db_dev = os.environ["DB_DEV"]
 
 # ✅ Alternate patterns
 config_value = settings("SERVICE_TOKEN")
