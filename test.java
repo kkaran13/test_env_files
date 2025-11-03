@@ -8,6 +8,7 @@ public class EnvExample {
         String token;
         String adminapiKey = System.getProperty("ADMIN_API_KEY");
         String devapiKey = System.getProperty("DEV_API_KEY");
+        String testapiKey = System.getProperty("TEST_API_KEY");
 
         // ❌ False positives
         String encoding = "UTF-8";
