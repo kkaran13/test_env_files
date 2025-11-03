@@ -4,7 +4,7 @@ Branch: **main**
 Scan Date: **2025-11-03 08:13:40**
 
 ## Summary
-- Total variables: **50**
+- Total variables: **52**
 - Files: **10**
 
 ## Variables by File
@@ -77,3 +77,10 @@ Scan Date: **2025-11-03 08:13:40**
 - `API_TOKEN`
 - `DB_PASS`
 - `DB_USER`
+
+## Newly Detected Variables 
+
+Scan Date: **2025-11-03 08:52:52**
+### test.java
+- `TEST_API_KEY`
+
