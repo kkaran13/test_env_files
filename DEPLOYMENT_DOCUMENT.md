@@ -4,7 +4,7 @@ Branch: **main**
 Scan Date: **2025-10-31 12:26:57**
 
 ## Summary
-- Total variables: **35**
+- Total variables: **19**
 - Files: **10**
 
 ## Variables by File
@@ -67,3 +67,8 @@ Scan Date: **2025-10-31 12:26:57**
 
 - `ADMIN_API_KEY`
 - `DB_ADMIN`
+
+## Newly Detected Variables (Appended Automatically)
+
+- `CONFIG_KEY`
+- `SECRET_KEY`
